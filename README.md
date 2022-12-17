@@ -38,3 +38,5 @@ Vps Deploy
  
 ------
 
+
+ctrl + d + a
