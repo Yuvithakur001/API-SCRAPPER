@@ -13,7 +13,7 @@ class Development(Config):
     # configurtion required while creating new application
     APP_TITLE = "Legend Api Scrapper Bot"
     APP_SHORT_NAME = "Legend Api Scrapper Bot"
-    APP_URL = "https://telegram.dog/LegendApiScrapperBot
+    APP_URL = "https://telegram.dog/LegendApiScrapperBot"
     # these platform informations were obtained
     # on 27.01.2020 21:15:50 IST
     APP_PLATFORM = [
