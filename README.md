@@ -5,8 +5,11 @@
 -----
 DEPLOY 
 
+<h3 align="center">
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+</h3>
 
 
 <h3 align="center">
@@ -23,7 +26,7 @@ DEPLOY
 
 -----
 
-Vps Deploy
+Vps Deploy(Best on ide.goorm.io/my/dashboard)
 
 - `sudo apt update && sudo apt upgrade -y`
 
