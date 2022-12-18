@@ -1,0 +1,6 @@
+version: "1.7"
+services:
+  worker:
+    build: .
+    environment:
+      TG_BOT_TOKEN: $TG_BOT_TOKEN
