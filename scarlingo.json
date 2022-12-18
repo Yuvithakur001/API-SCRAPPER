@@ -1,0 +1,19 @@
+{
+    "name": "LegendApi Bot",
+    "description": "get your APP ID and API HASH inside Telegram.",
+    "keywords": ["telethon"],
+    "repository": "https://github.com/LEGEND-AI/API-SCRAPPER",
+  "stack": "container",
+    "env": {
+    "TG_BOT_TOKEN": {
+      "description": "Your bot token, as a string."
+    }
+},
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "heroku-20"
+}
